@@ -10,13 +10,19 @@ https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zi
 
 In der **svwsconfig.json** folgendes Eintragen:
 
-**"AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
+**AppsPath" : "C:\\ProgramData\\SVWS-Server/tools,**
+
+![svwsconfig](graphics/svwsconfig.png)
 
 in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** *(wenn der SVWS-Server unter C: installiert ist!?)*
 
 dort bitte die Datei **tools.zip** entpacken.
 
-Dann den Dienst svws-java-service neu Starten.
+![ProgamData](graphics/ProgramData.png)
+
+Den Dienst SVWS-Java-Service neu Starten.
+
+![SVWS-Java-Service](graphics/SVWS-Java-Service.png)
 
 Im Browser https://localhost/app/start eingeben und es müsste das Erscheinen.
 
