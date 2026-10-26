@@ -26,7 +26,7 @@ In der Date **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\ folgen
 
 [Download der Datei **tools.zip** und diese in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** entpacken.](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip)
 
-*(wenn der SVWS-Server unter C: installiert ist!?)*
+*( wenn der SVWS-Server unter C: installiert ist !?! )*
 
 ![ProgamData](graphics/ProgramData.png)
 
