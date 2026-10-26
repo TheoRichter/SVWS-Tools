@@ -1,9 +1,5 @@
 # SVWS-Tools beim SVWS-Server unter Windows
 
-## Download-Link zur Datei **tools.zip**:
-
-https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip
-
 ## Einbinden der SVWS-Tools Conference, Gradehub, Import, Laufbahnplanung und Prognos
 
 ## Anleitung
@@ -28,9 +24,9 @@ In der Date **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\ folgen
 
 ### 2. Schritte
 
-in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** *(wenn der SVWS-Server unter C: installiert ist!?)
+[Download der Datei **tools.zip** und diese in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** entpacken.](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip)
 
-dort bitte die Datei **tools.zip** entpacken.
+*(wenn der SVWS-Server unter C: installiert ist!?)*
 
 ![ProgamData](graphics/ProgramData.png)
 
@@ -42,7 +38,7 @@ Den Dienst SVWS-Java-Service neu Starten.
 
 ### 4. Schritte
 
-Im Browser https://localhost/app/start eingeben und es müsste das Erscheinen.
+Im Browser https://localhost/app/start eingeben und es müsste das erscheinen.
 
 ![tools](graphics/tools.png)
 
