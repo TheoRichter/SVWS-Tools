@@ -12,7 +12,7 @@ In der svwsconfig.jason folgendes hinter
 
 "AppsPath" Eintragen: "AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",
 
-in dem Verzeichniss "C:\ProgramData\SVWS-Server" (wenn der SVWS-Server unter C: installiert ist!?)
+in dem Verzeichniss "C:\ProgramData\SVWS-Server" *(wenn der SVWS-Server unter C: installiert ist!?)*
 
 dort bitte die Datei **tools.zip** entpacken.
 
