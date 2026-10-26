@@ -10,7 +10,7 @@ https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zi
 
 In der **svwsconfig.json** folgendes Eintragen:
 
-**AppsPath" : "C:\\ProgramData\\SVWS-Server/tools,**
+**AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
 
 ![svwsconfig](graphics/svwsconfig.png)
 
