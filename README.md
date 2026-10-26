@@ -4,9 +4,9 @@
 
 https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip
 
-### Einbinden der SVWS-Tools Conference, Gradehub, Import, Laufbahnplanung und Prognos
+## Einbinden der SVWS-Tools Conference, Gradehub, Import, Laufbahnplanung und Prognos
 
-#### Anleitung
+### Anleitung
 
 In der **svwsconfig.json** folgendes Eintragen:
 
