@@ -1,6 +1,6 @@
 # SVWS-Tools
 
-## Download-Link der Datei **tools.zip**:
+## Download-Link zur Datei **tools.zip**:
 
 https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip
 
