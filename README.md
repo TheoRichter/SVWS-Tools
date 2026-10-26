@@ -20,7 +20,7 @@ Es kann sein das ProgrammData nicht angezeigt wird!
 
 ---
 
-In der **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\  folgendes Eintragen:
+In der Date **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\ folgendes Eintragen:
 
 **AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
 
