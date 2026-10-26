@@ -1,5 +1,9 @@
 # SVWS-Tools
 
+## Download-Link der Datei **tools.zip**:
+
+https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip
+
 ### Einbinden der SVWS-Tools Conference, Import..
 
 #### Anleitung
@@ -10,7 +14,7 @@ In der svwsconfig.jason folgendes hinter
 
 in dem Verzeichniss "C:\ProgramData\SVWS-Server" (wenn der SVWS-Server unter C: installiert ist!?)
 
-dort bitte die Datei "tools.zip" entpacken.
+dort bitte die Datei **tools.zip** entpacken.
 
 Dann den Dienst svws-java-service neu Starten.
 
