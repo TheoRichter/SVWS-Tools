@@ -1,4 +1,4 @@
-# SVWS-Tools
+# SVWS-Tools beim SVWS-Server unter Windows
 
 ## Download-Link zur Datei **tools.zip**:
 
