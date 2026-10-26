@@ -8,9 +8,9 @@ https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zi
 
 #### Anleitung
 
-In der **svwsconfig.json** folgendes hinter
+In der **svwsconfig.json** folgendes hinter Eintragen:
 
-"AppsPath" Eintragen: **"AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
+**"AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
 
 in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** *(wenn der SVWS-Server unter C: installiert ist!?)*
 
