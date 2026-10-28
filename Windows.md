@@ -28,7 +28,7 @@ In der Datei **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\ folge
 
 **"AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
 
-![svwsconfig](graphics/svwsconfig.png)
+![svwsconfig](graphics/svwsconfig_windows.png)
 
 ### 2. Schritte
 

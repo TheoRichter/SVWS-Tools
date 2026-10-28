@@ -6,17 +6,13 @@
 
  [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/install-tools.sh)  
 
-Die Datei **install-tools.zip** entpacken und als root mit bash install-tools.sh ausführen. 
+Die Datei **install-tools.zip** entpacken und als root mit *bash install-tools.sh* ausführen. 
 
-``
-
+```bash
 unzip install-tools.zip
-
 rm install-tools.zip
-
 bash install-tools.sh
-
-``
+```
 
 ## Installations-Anleitung Schritt für Schritt 
 
@@ -26,7 +22,7 @@ In der Datei **svwsconfig.json** im Pfad: /etc/app/svws/conf/ folgendes Eintrage
 
 **"AppsPath" : "../tools",**
 
-![svwsconfig](graphics/svwsconfig.png)
+![svwsconfig](graphics/svwsconfig_linux.png)
 
 ### 2. Schritte
 
