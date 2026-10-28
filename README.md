@@ -10,7 +10,7 @@ Die Datei **SVWS-Tools-Installieren.zip** entpacken und als Administrator start.
 
 ![Administartor](graphics/administartor.png)
 
-## Anleitung
+## Manuelle Schritt für Schritt Anleitung
 
 ### 1. Schritte
 
