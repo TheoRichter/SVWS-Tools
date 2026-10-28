@@ -20,7 +20,7 @@ bash install-tools.sh
 
 In der Datei **svwsconfig.json** im Pfad: /etc/app/svws/conf/ folgendes Eintragen:
 
-**"AppsPath" : "../tools",**
+**"AppsPath" : "./tools",**
 
 ![svwsconfig](graphics/svwsconfig_linux.png)
 
