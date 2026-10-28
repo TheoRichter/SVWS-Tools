@@ -2,6 +2,14 @@
 
 ## Einbinden der SVWS-Tools Conference, Gradehub, Import, Laufbahnplanung und Prognos
 
+## Automatische Installation
+
+ [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/VWS-Tools-Installieren.zip)  
+
+Die Datei **SVWS-Tools-Installieren.zip** entpacken und als Administrator start. 
+
+![Administartor](graphics/administartor.png)
+
 ## Anleitung
 
 ### 1. Schritte
