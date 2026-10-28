@@ -4,7 +4,7 @@
 
 ## Automatische Installation
 
- [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/install-tools.sh)  
+ [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/install-tools.zip)  
 
 Die Datei **install-tools.zip** entpacken und als root mit *bash install-tools.sh* ausführen. 
 
