@@ -14,38 +14,20 @@ Die Datei **SVWS-Tools-Installieren.sh** entpacken und als root mit bash SVWS-To
 
 ### 1. Schritte
 
----
+In der Datei **svwsconfig.json** im Pfad: /etc/app/svws/conf/ folgendes Eintragen:
 
-### Hinweis: 
-
-Es kann sein das ProgrammData nicht angezeigt wird!
-
-![Ausgeblendet](graphics/ausgeblendet.png)
-
----
-
-In der Date **svwsconfig.json** im Pfad: C:\ProgrammData\SVWS-Server\res\ folgendes Eintragen:
-
-**"AppsPath" : "C:\\ProgramData\\SVWS-Server/tools",**
+**"AppsPath" : "../tools",**
 
 ![svwsconfig](graphics/svwsconfig.png)
 
 ### 2. Schritte
 
-[Download der Datei **tools.zip** und diese in dem Verzeichniss **"C:\ProgramData\SVWS-Server"** entpacken.](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip)
-
-(wenn der SVWS-Server unter C: installiert ist !?!)
-
-![ProgamData](graphics/ProgramData.png)
+[Download der Datei **tools.zip** und diese in dem Verzeichniss **"/opt/app/svws/"** entpacken.](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/tools.zip)
 
 ### 3. Schritte
 
-Den Dienst SVWS-Java-Service neu Starten.
-
-![SVWS-Java-Service](graphics/SVWS-Java-Service.png)
+Den Dienst svws-service mit ***systemctl restart svws.service** neu Starten.
 
 ### 4. Schritte
 
-Im Browser https://localhost/app/start eingeben und es müsste das erscheinen.
-
-![tools](graphics/tools.png)
+Im Browser https://localhost:8443/app/start eingeben und es müsste das erscheinen.
