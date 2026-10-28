@@ -4,11 +4,19 @@
 
 ## Automatische Installation
 
- [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/SVWS-Tools-Installieren.sh)  
+ [Download der Batch-Datei](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/install-tools.sh)  
 
-Die Datei **SVWS-Tools-Installieren.sh** entpacken und als root mit bash SVWS-Tools-Installieren.sh ausführen. 
+Die Datei **install-tools.zip** entpacken und als root mit bash install-tools.sh ausführen. 
 
-![Bash](graphics/bash.png)
+``
+
+unzip install-tools.zip
+
+rm install-tools.zip
+
+bash install-tools.sh
+
+``
 
 ## Installations-Anleitung Schritt für Schritt 
 
@@ -31,3 +39,6 @@ Den Dienst svws-service mit ***systemctl restart svws.service** neu Starten.
 ### 4. Schritte
 
 Im Browser https://localhost:8443/app/start eingeben und es müsste das erscheinen.
+
+
+![tools](graphics/tools.png)
