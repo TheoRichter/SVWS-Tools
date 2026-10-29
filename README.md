@@ -4,11 +4,11 @@
 
 |SVWS|Ordnername|Release|
 |:------:|:------:|:------:|
-|Conference|conference|1.5.0|
-|Gradehub|gradehub|1.5.0|
-|Import|Import|1.5.0|
-|Laufbahnplanung|laufbahn|1.5.0|
-|Prognos|prognos|1.5.0|
+|[Conference](https://github.com/SVWS-NRW/SVWS-Conference/releases)|conference|1.0.0|
+|[Gradehub](https://github.com/SVWS-NRW/SVWS-GradeHub/releases)|gradehub|1.0.0|
+|[Import](https://github.com/SVWS-NRW/SVWS-Import/releases)|Import|0.3.4|
+|[Laufbahnplanung](https://github.com/SVWS-NRW/SVWS-Server/releases)|laufbahn|1.5.0|
+|[Prognos](https://github.com/SVWS-NRW/SVWS-Prognos/releases)|prognos|0.5.0|
 
 ## Vorwort
 
