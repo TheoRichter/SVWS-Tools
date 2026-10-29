@@ -1,7 +1,5 @@
 # Update von SVWS-Tools unter Windows
 
-## Listen Ansicht
-
 |SVWS|Release|Pfad|Download|
 |------:|:------|:------:|:------|
 |[Conference](https://github.com/SVWS-NRW/SVWS-Conference/releases)|1.0.0|C:\ProgramData\SVWS-Server\toots\conference|[Conference](conference.sh)|
