@@ -18,4 +18,8 @@ Bei Linux muß eine Desktop installiert vorliegen.
 
 ### [Linux Anleitung](Linux.md)
 
+### [Linux Tools-Update](LinuxUpdate.md)
+
 ### [Windows Anleitung](Windows.md)
+
+### [Windows Tools-Update](WindowsUpdate.md)
