@@ -12,7 +12,7 @@
 
 ## Vorwort
 
-Um die SVWS-Tools nutzen zu können, müß der [SVWS-Server](https://github.com/SVWS-NRW/SVWS-Server/releases) local auf dem PC installiert sei.
+Um die SVWS-Tools nutzen zu können, müß der [SVWS-Server](https://github.com/SVWS-NRW/SVWS-Server/releases) local auf dem PC installiert sein.
 
 Bei Linux muß eine Desktop installiert vorliegen.
 
