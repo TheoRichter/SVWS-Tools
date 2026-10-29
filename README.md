@@ -12,6 +12,6 @@ Bei Linux muß eine Desktop installiert vorliegen.
 
 *Ich benutze nicht das offizielle [SVWS-Tools](https://github.com/SVWS-NRW/SVWS-Tools/releases)!*
 
-### [Anleitung für Linux](Linux.md)
+### [Linux Anleitung](Linux.md)
 
-### [Anleitung für Windows](Windows.md)
+### [Windows Anleitung](Windows.md)
