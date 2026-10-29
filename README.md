@@ -8,10 +8,6 @@ Um die SVWS-Tools nutzen zu können, müß der [SVWS-Server](https://github.com/
 
 Bei Linux muß eine Desktop installiert vorliegen.
 
-**Hinweis:** 
-
-*Ich benutze nicht das offizielle [SVWS-Tools](https://github.com/SVWS-NRW/SVWS-Tools/releases)!*
-
 ### [Linux Anleitung](Linux.md)
 
 ### [Windows Anleitung](Windows.md)
