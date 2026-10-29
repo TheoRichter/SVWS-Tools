@@ -1,9 +1,9 @@
 # Update von SVWS-Tools unter Windows
 
-|SVWS|Release|Pfad|Download|
-|------:|:------|:------:|:------|
-|[Conference](https://github.com/SVWS-NRW/SVWS-Conference/releases)|1.0.0|C:\ProgramData\SVWS-Server\tools\conference|[Conference](conference_windows.bat)|
-|[Gradehub](https://github.com/SVWS-NRW/SVWS-GradeHub/releases)|1.0.0|C:\ProgramData\SVWS-Server\tools\gadehub|[Gradehub](gadehub_windows.bat)|
-|[Import](https://github.com/SVWS-NRW/SVWS-Import/releases)|0.3.4|C:\ProgramData\SVWS-Server\tools\import|[Import](import_windows.bat)|
-|[Laufbahnplanung](https://github.com/SVWS-NRW/SVWS-Server/releases)|1.5.0|C:\ProgramData\SVWS-Server\tools\laufbahn|[Laufbahnplanung](laufbahn_windows.bat)|
-|[Prognos](https://github.com/SVWS-NRW/SVWS-Prognos/releases)|0.5.0|C:\ProgramData\SVWS-Server\tools\prognos|[Prognos](prognos_windows.bat)|
+|SVWS|Release|Pfad|
+|------:|:------|:------:|
+|[Conference](https://github.com/SVWS-NRW/SVWS-Conference/releases)|1.0.0|C:\ProgramData\SVWS-Server\tools\conference|[
+|[Gradehub](https://github.com/SVWS-NRW/SVWS-GradeHub/releases)|1.0.0|C:\ProgramData\SVWS-Server\tools\gadehub|
+|[Import](https://github.com/SVWS-NRW/SVWS-Import/releases)|0.3.4|C:\ProgramData\SVWS-Server\tools\import|
+|[Laufbahnplanung](https://github.com/SVWS-NRW/SVWS-Server/releases)|1.5.0|C:\ProgramData\SVWS-Server\tools\laufbahn|
+|[Prognos](https://github.com/SVWS-NRW/SVWS-Prognos/releases)|0.5.0|C:\ProgramData\SVWS-Server\tools\prognos|
