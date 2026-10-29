@@ -6,7 +6,7 @@
 
  [Download von **SVWS-Tools-Installieren.zip**](https://github.com/TheoRichter/SVWS-Tools/raw/refs/heads/main/downloads/SVWS-Tools-Installieren.zip)  
 
-Die Datei **SVWS-Tools-Installieren.zip** entpacken und als Administrator start. 
+Die Datei **SVWS-Tools-Installieren.zip** entpacken und als Administrator starten. 
 
 ![Administartor](graphics/administartor.png)
 
